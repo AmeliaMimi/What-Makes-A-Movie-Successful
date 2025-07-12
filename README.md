@@ -55,6 +55,6 @@ This project helped me practice and grow in:
 - Understanding what really drives performance metrics in entertainment
 
 I'm proud of how it came together and excited to keep pushing forward in data analysis! 🚀  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/amelia-mimi-b0103b337) 💬  
+
 ---
 
